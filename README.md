@@ -41,7 +41,6 @@ I don't just write code  I take applications from local development to a fully l
 
 | Service | Details |
 |---|---|
-| Web Development | Writing code from blank canvas to working project |
 | Hosting & Domains | Purchasing and configuring hosting plans and domain names |
 | VPS Setup (Ubuntu) | Full server provisioning and CLI-based configuration on Ubuntu |
 | cPanel Setup | Complete setup and management on cPanel-based hosting |
