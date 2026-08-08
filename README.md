@@ -34,6 +34,31 @@ I am a **Full Stack Developer** who builds complete web applications and takes t
 | DevOps & Deployment | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white) ![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![VPS](https://img.shields.io/badge/VPS%20Hosting-4B4B4B?style=for-the-badge&logo=linux&logoColor=white) |
 
 ---
+##  Skills
+ 
+**Technical Skills**
+- Full stack application development with the MERN stack, Next.js, and Nest.js
+- Building type-safe applications using TypeScript
+- Designing and managing relational and NoSQL databases (MySQL, PostgreSQL, MongoDB)
+- Integrating AI capabilities into web apps using LangChain and RAG pipelines
+- Prompt engineering, loop engineering, and graph engineering for AI agent workflows
+- Writing and debugging systems-level code in C, C++, C#, and Assembly
+- Strong grounding in Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), Operating Systems, and Digital Logic Design
+- Understanding of parallel and distributed computing concepts
+**DevOps & Server Skills**
+- Purchasing and configuring domains and hosting plans
+- Full VPS provisioning and server setup on Ubuntu (CLI-based)
+- Full setup and management on cPanel-based hosting environments
+- Configuring Nginx, process managers (PM2), and Docker for deployment
+- Setting up CI/CD workflows and version control with Git and GitHub
+- Ongoing server maintenance, monitoring, and updates for live applications
+- Managing and customizing hosted WordPress sites using Elementor
+**Professional Skills**
+- Client communication and requirement gathering for freelance projects
+- Project planning and delivering complete solutions end to end
+- Working independently in remote and distributed team settings
+- Troubleshooting and problem-solving across the full application stack
+---
 
 ##  Deployment & DevOps
 
